@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "349285162565",
+    "project_id": "courtbook-bae7e",
+    "storage_bucket": "courtbook-bae7e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:349285162565:android:85d8b8a6389f596b2b0d2c",
+        "android_client_info": {
+          "package_name": "com.ameer.court_book"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCKonPT_XmHxBz-e4-TvHiDnYk2arhnmk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
